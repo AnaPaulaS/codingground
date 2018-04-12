@@ -1,0 +1,26 @@
+Documento original
+    Há problemas: 
+        virgulas do texto trocar por nada (ok)
+        virgula nos numero trocar por ponto (ok)
+        apostrofo trocar por nada (ok)
+        ponto e virgula no weka trocar por virgula como delimitador (ok)
+        espaços vázios trocar por zero (ok)
+        fórmulas não funcionais trocar por zero (ok)
+    Acrescentar coluna com situação da uo ()
+    
+
+
+Detecção de outliers
+    Não supervisionado (weka)
+    filtro interquartileRange
+        detecta outliers e valores extremos
+        selecao de atributos para analisar
+        
+        
+    Relações possíveis
+        valores e a sutuação da uo
+        
+        
+        
+
+https://mineracaodedados.wordpress.com/tag/deteccao-de-outliers/
